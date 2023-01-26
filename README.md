@@ -1,5 +1,7 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:
+## DATE:23-01-2023
+## NAME:ADHITHYA.A
+## REF NO:22001593
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -44,10 +46,14 @@ We follow the same steps for aligning the components onto their respective      
 ### Note: 
 If the components do not fit properly into the slots, it can be moved into the slot using the Move option.
 
-## INPUT: 
+## INPUT:
+
+
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
+![caa4e4ab-7fab-4d1a-8097-5f550c2f5365](https://user-images.githubusercontent.com/122251223/214921184-ec502b6d-8097-4fe4-9703-fe532d501411.jpg)
+
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
